@@ -1,4 +1,4 @@
-# 📄 Chat with Your PDFs – Local RAG Chatbot
+# Chat with Your PDFs – Local RAG Chatbot
 
 This project is a **Streamlit-based chatbot interface** that allows users to interact with their PDF documents conversationally. Upload one or more PDFs and ask questions — the application retrieves relevant content and generates answers using a local LLM via Ollama, ensuring complete data privacy.
 
